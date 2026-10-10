@@ -7,7 +7,6 @@ Wie in dem Einführungsvideo [CS50 Cybersicherheit – Einführung](https://www.
 
 Zudem lerne ich, Cybersicherheit nicht absolut, sondern relativ zu betrachten[cite: 1]. Es geht immer um das Verhältnis von Risiko und Belohnung für den Angreifer, verglichen mit den Kosten und dem Nutzen für uns[cite: 1].
 
----
 
 ## Was ich in diesem Kurs behandle
 Neben der reinen Theorie lege ich in diesem Repo Wert auf die Kernprinzipien der IT-Sicherheit:
@@ -16,7 +15,6 @@ Neben der reinen Theorie lege ich in diesem Repo Wert auf die Kernprinzipien der
 * **Prävention, Erkennung & KI:** Wir müssen virtuell alle Türen und Fenster abschließen, aber ein Angreifer muss nur einen einzigen Fehler finden[cite: 1]. Deshalb ist nicht nur Prävention wichtig, sondern vor allem auch die schnelle Erkennung (Detection) und Überwachung durch Auditing[cite: 1]. Hierbei kann auch Künstliche Intelligenz (KI) helfen, um Muster und Angreiferverhalten zu erkennen, die uns selbst vielleicht gar nicht auffallen würden[cite: 1].
 * **First Principles:** Das Verständnis dafür, wie Computer und Netzwerke auf der untersten Ebene funktionieren[cite: 1]. Das hilft dabei, auch zukünftige, noch unbekannte Bedrohungen zu erkennen und technisch zu bewerten[cite: 1].
 
----
 
 ## Struktur des Repositories
 Um meinen Lernprozess sauber zu dokumentieren, ist dieses Repo wie folgt aufgebaut:
